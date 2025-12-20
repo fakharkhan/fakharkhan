@@ -1,59 +1,74 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Fakhar Khan
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+**Founder & CEO — SoftPyramid**
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## About
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Fakhar Khan is an engineering-driven executive with over 18 years of experience in enterprise software development, community leadership, and global delivery. As the Founder & CEO of SoftPyramid, he leads a consultancy that combines deep technical expertise with operational discipline, serving clients across real estate, education, and technology sectors.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Professional Background
 
-## Learning Laravel
+With a career spanning more than 18 years, Fakhar has built a reputation for technical excellence and strategic execution. Beginning with Microsoft .NET in 2006, his transition to Laravel in 2013 marked a shift toward scalable, maintainable systems that serve global clients worldwide.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+### Key Milestones
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- **2006** — Software career began (Microsoft .NET)
+- **2013** — Laravel adoption for scalable systems
+- **2016** — Founded Laravel Live Pakistan, the country's premier Laravel conference
+- **2018** — Laravel Certification (Pakistan)
+- **2020** — Ruby on Rails expansion
+- **2023** — Founded SoftPyramid (October)
 
-## Laravel Sponsors
+## Community Leadership
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### Laravel Live Pakistan
 
-### Premium Partners
+Since 2016, Fakhar has organized Laravel Live Pakistan, bringing together thousands of developers and industry leaders. This annual conference has become Pakistan's premier Laravel event, establishing strategic partnerships and fostering the local developer community.
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+**Official Website:** [https://www.laravellive.pk/](https://www.laravellive.pk/)
 
-## Contributing
+### AI Automation Leadership (n8n)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Fakhar conducts executive-level workshops on AI automation and workflow optimization, sharing practical knowledge on automation as operational leverage. Workshops have been held in:
 
-## Code of Conduct
+- Lahore
+- Islamabad
+- Karachi
+- Richardson / Dallas, Texas
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## SoftPyramid
 
-## Security Vulnerabilities
+Founded in October 2023, SoftPyramid is a consultancy headquartered in Lahore, Pakistan, with global operations and clients. The company combines deep technical expertise with operational discipline, delivering enterprise-grade solutions.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### Notable Clients
 
-## License
+- **RE/MAX** — Real estate platform modernization
+- **Keller Williams** — Enterprise software solutions
+- **Browns English Language School** (Australia) — International education management system
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Company Links
+
+- **Website:** [https://softpyramid.com](https://softpyramid.com)
+- **Development:** [https://softpyramid.dev](https://softpyramid.dev)
+
+## Contact
+
+- **Email:** [fakhar@softpyramid.com](mailto:fakhar@softpyramid.com)
+- **Phone:** 385-216-2631
+- **Schedule a Call:** [https://cal.com/fakharkhan](https://cal.com/fakharkhan)
+
+## Connect
+
+- **LinkedIn:** [https://www.linkedin.com/in/fakharkhan](https://www.linkedin.com/in/fakharkhan)
+- **Facebook:** [https://www.facebook.com/fakharkhan](https://www.facebook.com/fakharkhan)
+- **Instagram:** [https://www.instagram.com/fakharkhan](https://www.instagram.com/fakharkhan)
+
+## Location
+
+Richardson, TX / Lahore, Pakistan
+
+---
+
+**Website:** [https://fakharkhan.com](https://fakharkhan.com)
